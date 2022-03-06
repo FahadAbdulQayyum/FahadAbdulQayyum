@@ -89,7 +89,7 @@ I am a Fullstack developer,
 ### Connect with me:
 
 [<img align="left" alt="Fahad.com" height="40px" width="40px" src="globee.gif" />][website]
-[<img align="left" alt="qtr.netlify.app | Facebook" height="40px" width="40px" src="./fb.gif" />][facebook]
+[<img align="left" alt="fahadd.netlify.app | Facebook" height="40px" width="40px" src="./fb.gif" />][facebook]
 [<img align="left" alt="hussainmansoor876 | LinkedIn" height="40px" width="40px" src="linkedd.gif" />][linkedin]
 
 <!-- [<img align="left" alt="hussainmansoor876 | StackOverflow" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1462799966/405/stackoverflow.png?1462799966" />][stackoverflow] -->
@@ -108,7 +108,7 @@ I am a Fullstack developer,
 
 </details> -->
 
-[website]: https://qtr.netlify.app
+[website]: https://fahadd.netlify.app
 [facebook]: https://www.facebook.com/fahad.abdulqayyum.1
 [linkedin]: https://www.linkedin.com/in/fahadabdulqayyum/
 
