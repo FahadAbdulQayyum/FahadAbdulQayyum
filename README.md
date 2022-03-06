@@ -64,7 +64,7 @@ Click for Future! See you there with best wishes! -->
 
 I am a Fullstack developer,
 
-<img width="500" src="./animation1.gif" />
+<img width="500" src="./animation2.gif" />
 
 <!-- <iframe src="https://embed.lottiefiles.com/animation/63487"></iframe> -->
 
@@ -90,7 +90,7 @@ I am a Fullstack developer,
 
 [<img align="left" alt="Fahad.com" height="40px" width="40px" src="globee.gif" />][website]
 [<img align="left" alt="qtr.netlify.app | Facebook" height="40px" width="40px" src="./fb.gif" />][facebook]
-[<img align="left" alt="hussainmansoor876 | LinkedIn" height="40px" width="40px" src="linked.gif" />][linkedin]
+[<img align="left" alt="hussainmansoor876 | LinkedIn" height="40px" width="40px" src="linkedd.gif" />][linkedin]
 
 <!-- [<img align="left" alt="hussainmansoor876 | StackOverflow" height="40px" width="40px" src="https://emojis.slackmojis.com/emojis/images/1462799966/405/stackoverflow.png?1462799966" />][stackoverflow] -->
 
