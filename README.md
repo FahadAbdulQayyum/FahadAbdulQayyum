@@ -118,5 +118,5 @@ I am a Fullstack developer,
 
 Insha'Allah, a great destiny is waiting for me!
 
-Dismiss for Now!
-Click for Future! See you there with best wishes!
+Let connect for Collaboration!
+Click here and See you there!
