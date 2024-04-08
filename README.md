@@ -70,7 +70,7 @@ I am a Fullstack developer,
 
 - <img width="50" src="https://slackmojis.com/emojis/52157-laptop/download" /> I’m learning something amazing!
 
-- <img width="50" src="https://emojis.slackmojis.com/emojis/images/1608799139/11887/happy-new-year.gif?1608799139" /> 2023 Goals: Contribute more to Open Source projects
+- <img width="50" src="https://emojis.slackmojis.com/emojis/images/1608799139/11887/happy-new-year.gif?1608799139" /> 2024 Goals: Contribute more to Open Source projects
 - <img width="50" src="https://emojis.slackmojis.com/emojis/images/1594314885/9662/fbwow.gif?1594314885" /> fun fact: Coding is not my job its my hobby and i love doing it.
 
 ### TECHNOLOGIES I USE OR CODE WITH:
